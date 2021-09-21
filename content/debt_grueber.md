@@ -4,7 +4,7 @@ Modified: 2010-12-05 18:00
 Category: Books-Review
 Tags: anthropology, economics-history, english, books-review
 Slug: debt_greueber
-Authors: Irfan Nurhadi Satria
+Authors:  イルファン
 Summary: Some quick thoughts on "Debt: The First 5000 Years" by David Graeber (2012)
 
 I have spent some time reading this book from the point of view of an undergraduate economist. The main takeaway from this book is that debt comes earlier to humanity than money. The first writing in Sumeria, before they begin to exult gods and kings and stories of their cultures, was about resources retained and distributed by the central authorities - temples and palaces - and physical transactions between citizens of the city. Writing comes from the need for humans to properly tally their gifts and debts, and to distribute produces and natural resources from one part of the state - farmers and artisans - to the other, e.g. scribes and soldiers. 
